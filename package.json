@@ -1,7 +1,6 @@
 {
   "name": "graphql-api",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -15,5 +14,15 @@
     "express-graphql": "^0.9.0",
     "graphql": "^14.4.2",
     "mongodb": "^3.3.0-beta2"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ravindra281298/data-fetching-using-GraphQL.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ravindra281298/data-fetching-using-GraphQL/issues"
+  },
+  "homepage": "https://github.com/ravindra281298/data-fetching-using-GraphQL#readme",
+  "description": ""
 }
